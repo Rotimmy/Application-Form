@@ -1,0 +1,76 @@
+body {
+  background-color: #98D2BF;
+  padding: 30px 50px;
+}
+
+h3 {
+  font-family: Oswald;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+form {
+  background-color: white;
+  padding: 30px;
+  border-radius: 3px;
+  max-width: 500px;
+  margin: auto;
+}
+
+input, label, select, option, textarea, p {
+  font-family: Open Sans;
+}
+
+placeholder {
+  color: #e8e8e8;
+}
+
+label, p {
+  font-size: 12px;
+}
+
+input {
+  padding: 10px 15px;
+  margin: 5px 0;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+}
+
+input[type=text], textarea {
+  width: 92%;
+  max-width: 96%;
+}
+
+textarea {
+  padding: 10px;
+}
+
+input[type=radio] {
+  margin:0 7px 0 5px;
+}
+
+select {
+  margin: 10px 0 20px;
+  display: block;
+}
+
+button {
+  background-color: #B69843;
+  border-radius: 3px;
+  color:white;
+  border:none;
+  padding: 7px 15px;
+  margin: 15px 0;
+}
+
+button:hover {
+  background-color: white;
+  color: #B69843;
+  border: 1px solid #B69843;
+  margin: 14px 0;
+}
